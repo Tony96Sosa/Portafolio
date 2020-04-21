@@ -1,9 +1,17 @@
-h1{
-	background: #ecc6d9;
-	padding: 50px #0000ff;
+#box-container {
+height: 500px;
+display: flex;
+display: flex;
 }
-body{
-	background-color: #b3ffb3;
-	color: white;
-	/*font-family: Helvetica;*/
+
+#box-1 {
+background-color: dodgerblue;
+width: 50%;
+height: 50%;
+}
+
+#box-2 {
+background-color: orangered;
+width: 50%;
+height: 50%;
 }
