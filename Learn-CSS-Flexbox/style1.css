@@ -1,0 +1,19 @@
+#box-container {
+	background-color: gray;
+	height: 500px;
+	display: flex;
+  	flex-direction: row-reverse;
+  	justify-content: center;
+}
+
+#box-1 {
+	background-color: dodgerblue;
+	width: 25%;
+    height: 100%;
+}
+
+#box-2 {
+	background-color: orangered;
+	width: 25%;
+    height: 100%;
+}

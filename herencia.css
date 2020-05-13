@@ -1,0 +1,11 @@
+/* para que se genere la herencia en las etiquetas html tenes que 
+ponerle a la propiedad el estado INHERIT que significa heredar, 
+asi permite heredar la propiedad de la etiqueta padre
+<p>Esta oracion tiene una palabra para <a href="#">heredar</a></p>
+p{
+	color: green;
+}
+a{
+	color: inherit;
+}
+*/
